@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Daftar Laptop</string>
+    <string name="name_heroes">Nama Laptop</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>ASUS ROG G531GU</item>
+        <item>Acer Aspire 514-52-393D</item>
+        <item>ASUS ROG GL503GE</item>
+        <item>ASUS ROG GL504GM-ES029T</item>
+        <item>LENOVO LEGION Y530</item>
+        <item>Razer Blade Pro 17</item>
+        <item>Lenovo IdeaPad Gaming 3i 6LID</item>
+        <item>ASUS TUF FX505DV</item>
+        <item>ACER PREDATOR NITRO 5 AN515</item>
+        <item>ASUS ROG INNOVATION GX550LXS</item>
+
+    </string-array>
+    <string-array name="data_description">
+    <item>
+        ~Processor = i7-9750H\n~RAM = 8GB(Up to 32GB)\n~Storage = 512GB SSD M.2 NVMe\n~VGA = NVIDIA GeForce GTX1660Ti 6GB\n~Screen = 15.6" FHD IPS (1920 x 1080) 144Hz Anti-Glare\n~Harga = Rp23.998.000
+    </item>
+    <item>
+        ~Processor =  i3-10110U \n~RAM = 4GB(Up To 32GB)\n~Storage = 1000 GB HDD + 1 Slot SSD M.2\n~VGA = Intel ® UHD Graphics, Dedicated 128 MB, Shared 1946 MB, Up to 2074 MB\n~Screen = 14" LED-backlit LCD HD (1366 x 768 pixels) 60Hz\n~Harga = Rp6.075.000
+    </item>
+    <item>
+        ~Processor =   i7 8750H \n~RAM = 8GB (Up To 32GB)\n~Storage = 1TB 5400RPM + 8GB Hybrid HDD FireCuda (1x SSD NVME SLOT AVAILABLE)\n~VGA = Intel UHD Grapchis 630 + nVidia GeForce GTX1050Ti 4GB\n~Screen = 15.6"FHD (1920 x 1080) WVA Matte LED Display with 60Hz Refresh Rate\n~Harga = Rp16.598.000
+    </item>
+    <item>
+        ~Processor =   i7 8750H \n~RAM = 8GB (Up To 32GB)\n~Storage = 128GB PCIe NVMe SSD + 1TB SSHD (5400 RPM)\n~VGA = nVidia GeForce GTX1060 6GB\n~Screen = 15.6" Non-glare IPS FHD 144Hz,3ms,72% NTSC with narrow bezel case\n~Harga = Rp23.598.000
+    </item>
+    <item>
+        ~Processor =   i7 8750H \n~RAM = 8GB (Up To 16GB)\n~Storage = 1 TB 7200 RPM\n~VGA = NVIDIA GeForce GTX 1050 Ti 4 GB \n~Screen = 15.6" IPS FHD (1920 x 1080) 144Hz\n~Harga = Rp14.450.000
+    </item>
+    <item>
+        ~Processor =   i7 9750H \n~RAM = 32GB\n~Storage = 512GB SSD\n~VGA = NVIDIA GeForce RTX2060 6GB\n~Screen = 17.3" FHD\n~Harga = Rp28.999.000
+    </item>
+    <item>
+        ~Processor = i5-10300H\n~RAM = 8GB (Up To 16GB)\n~Storage = 512GB SSD M.2 2242 PCIe NVMe 3.0x4 + 1 Slot kosong HDD / SATA 6.0Gb/s, 2.5" wide, 7mm high\n~VGA = NVIDIA GeForce GTX 1650 4GB GDDR6 + Intel® UHD Graphics\n~Screen = 15.6" FHD (1920x1080) WVA Anti-glare, 120Hz Refresh Rate\n~Harga = Rp12.955.000
+    </item>
+    <item>
+        ~Processor = AMD Ryzen 5-3550H\n~RAM = 8GB (Up To 32GB)\n~Storage = 1TB HDD\n~VGA = RX560X 6GB\n~Screen = 15.6" Resolution FHD ( 1920x1080 ) Refresh Rate 120Hz\n~Harga = Rp12.250.000
+    </item>
+    <item>~Processor = AMD Ryzen™ 5 4600H\n~RAM = 8GB (Up To 32GB)\n~Storage = 512GB SSD M.2 NVMe ( Support Slot SATA )\n~VGA = Nvidia Geforce GTX 1650Ti 4GB\n~Screen = 15.6" Full HD ( 1920 x 1080 ) LED IPS 144Hz\n~Harga = Rp12.750.000
+    </item>
+    <item>
+        ~Processor = i9-10980HK\n~RAM = 32GB (Up To 64GB)\n~Storage = 2TB M.2 NVMe PCIe 3.0 x4 SSD\n~VGA = Nvidia GeForce RTX 2080 SUPER 8GB\n~Screen = 15.6", Non-glare UHD (3840 x 2160), IPS panel 60Hz, 100% Adobe RGB, Pantone® Validated, G-SYNC™ with 14.1-inch (3840 x 1100) touchscreen\n~Harga = Rp95.999.000
+    </item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/laptop_a</item>
+    <item>@drawable/laptop_b</item>
+    <item>@drawable/laptop_c</item>
+    <item>@drawable/laptop_d</item>
+    <item>@drawable/laptop_e</item>
+    <item>@drawable/laptop_f</item>
+    <item>@drawable/laptop_g</item>
+    <item>@drawable/laptop_h</item>
+    <item>@drawable/laptop_i</item>
+    <item>@drawable/laptop_j</item>
+    </array>
+
+
+
+</resources>
